@@ -1,8 +1,8 @@
 # data_acquisition
-#This is "data acquisition "application with the ability of error handling :
+This is "data acquisition "application with the ability of error handling :
 
-#Software Tools : 
-# 1-Keil uVersion5 "IDE"
+Software Tools : 
+1-Keil uVersion5 "IDE"
 
 # Hardware :
 # 1-Stm32f103c8  "blue pill board"
