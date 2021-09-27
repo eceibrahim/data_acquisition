@@ -7,13 +7,18 @@ This is "data acquisition "application with the ability of error handling :
 
 # Hardware :
 1-Stm32f103c8  "blue pill board"
+
 2-Usb to ttl serial converter 
 
 # System description :
-1- PC keyboard  is a system input . 
+1- PC keyboard  is a system input .
+
 2- One interrupt system .
+
 3- For all minor cycles , sum(WCET of tasks) < system tick .
+
 4- output of the system will be :
+
 "Menu : 
 O - Open the led . 
 C - Close the led . 
