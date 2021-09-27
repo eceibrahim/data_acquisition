@@ -40,7 +40,7 @@ if the user enter 'c' or 'C' , led will be  closed  and "Led is closed ." massag
 
 2- Time out error .
 
-# Recovery action :
+# Recovery strategy :
 1- Turn on/off led with rate 1/100  HZ . 
 
 # Peripherals :
