@@ -41,7 +41,7 @@ if the user enter 'c' or 'C' , led will be  closed  and "Led is closed ." massag
 2- Time out error .
 
 # Error handling :
-1- Turn on/off led with rate 1/100  HZ . 
+1- Turn on/off led with rate 1/200  HZ . 
 
 # Peripherals :
 
@@ -50,3 +50,5 @@ if the user enter 'c' or 'C' , led will be  closed  and "Led is closed ." massag
 2- RCC 
 
 3- GPIO
+
+
