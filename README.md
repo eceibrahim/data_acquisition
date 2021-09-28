@@ -42,6 +42,7 @@ if the user enter 'c' or 'C' , led will be  closed  and "Led is closed ." massag
 
 # Error handling :
 1- Turn on/off led with rate 1/200  HZ .
+
 2- Enter the system in the defined state 
 
 # Peripherals :
